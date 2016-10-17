@@ -1,0 +1,25 @@
+{
+  "name": "telegram-deploy-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaklaus/telegram-deploy-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaklaus/telegram-deploy-bot/issues"
+  },
+  "homepage": "https://github.com/raphaklaus/telegram-deploy-bot#readme",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "dotenv": "^2.0.0",
+    "node-telegram-bot-api": "^0.24.0",
+    "simple-git": "^1.54.0"
+  }
+}
